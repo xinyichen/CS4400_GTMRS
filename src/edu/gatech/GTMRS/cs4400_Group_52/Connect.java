@@ -1,7 +1,5 @@
 package edu.gatech.GTMRS.cs4400_Group_52;
 
-//Sammy Warrayat
-
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
